@@ -6,7 +6,7 @@ You are an open source developer or software freelancer? You are passionate abou
 
 ### We fund Open Source Projects that help the german speaking media industry.
 - 🎸 For passionated open source developers (located in Europe)
-- 💰 Up **50.000 EUR** per project (45.000 EUR direct funding + 5.000 EUR for consulting and external support) 🌍
+- 💰 Up **50.000 EUR** per project (45.000 EUR direct funding + 5.000 EUR for consulting and external support)
 - ⏱ **6 months** project runtime
 - 👩‍👩‍👧‍👧 Fulltime or part time possible (minimum 20 hours/week)
 - 🚑 Weeklys and professional support by other program members and the MTL-crew
