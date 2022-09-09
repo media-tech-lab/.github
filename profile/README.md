@@ -29,4 +29,4 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 Every time you see this logo in a github repository or on a website it means we are supporting that project 💪
 
-![Media Tech Lab powered by logo](/assets/mtl-powered-by.png)
+<img src="/assets/mtl-powered-by.png" width="240" title="Media Tech Lab powered by logo">
