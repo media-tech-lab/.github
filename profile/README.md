@@ -25,4 +25,8 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 - Registration closed. Review in progress.
 
-### 
+### 💡 Our powered by logo
+
+Every time you see this logo in a github repository or on a website it means we are supporting that project 💪
+
+![Media Tech Lab powered by logo](/assets/mtl-powered-by.png)
