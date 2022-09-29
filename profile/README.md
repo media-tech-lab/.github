@@ -13,17 +13,27 @@ You are an open source developer or software freelancer? You are passionate abou
 
 Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-tech-lab.com/).
 
-### 🏃‍♀️️‍️ MTL-Batch No. 1 (running)
+
+### 🏃‍♀️️‍️ MTL-Batch Beta
+
+- [Content Lense](https://github.com/content-lense) - Enabling publishers to analyse their content
+
+<img src="https://media-tech-lab.github.io/images/progress-batch-beta.png" width="120" title="Progress bar of batch 2">
+
+### 🏃‍♀️️‍️ MTL-Batch No. 1
 
 - [armediabox](https://github.com/armediabox) - Providing Augmented Reality models to media professionals
-- [Content Lense](https://github.com/content-lense) - Enabling publishers to analyse their content
 - [Glasskube](https://github.com/glasskube/operator) - Enabling automatic installation and updates for popular open source software
 - [Open Podcast](https://github.com/openpodcast) - Free and open ecosystem for podcasts
 - [taggy](https://github.com/open-taggy) - Open Semantic Tagging
 
-### 👷🏽‍♀️ MTL-Batch No. 2 (review)
+<img src="https://media-tech-lab.github.io/images/progress-batch-1.png" width="120" title="Progress bar of batch 2">
 
-- Registration closed. Review in progress.
+### 👷🏽‍♀️ MTL-Batch No. 2
+
+- Registration closed. Onboarding in progress.
+
+<img src="https://media-tech-lab.github.io/images/progress-batch-2.png" width="120" title="Progress bar of batch 2">
 
 ### 💡 Our powered by logo
 
