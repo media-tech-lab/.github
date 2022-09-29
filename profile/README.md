@@ -18,7 +18,7 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 - [Content Lense](https://github.com/content-lense) - Enabling publishers to analyse their content
 
-<img src="https://media-tech-lab.github.io/images/progress-batch-beta.png" width="120" title="Progress bar of batch 2">
+<img src="https://media-tech-lab.github.io/images/progress-batch-beta.png" width="250" title="Progress bar of batch 2">
 
 ### 🏃‍♀️️‍️ MTL-Batch No. 1
 
@@ -27,13 +27,13 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 - [Open Podcast](https://github.com/openpodcast) - Free and open ecosystem for podcasts
 - [taggy](https://github.com/open-taggy) - Open Semantic Tagging
 
-<img src="https://media-tech-lab.github.io/images/progress-batch-1.png" width="120" title="Progress bar of batch 2">
+<img src="https://media-tech-lab.github.io/images/progress-batch-1.png" width="250" title="Progress bar of batch 2">
 
 ### 👷🏽‍♀️ MTL-Batch No. 2
 
 - Registration closed. Onboarding in progress.
 
-<img src="https://media-tech-lab.github.io/images/progress-batch-2.png" width="120" title="Progress bar of batch 2">
+<img src="https://media-tech-lab.github.io/images/progress-batch-2.png" width="250" title="Progress bar of batch 2">
 
 ### 💡 Our powered by logo
 
