@@ -22,8 +22,8 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 ### 🏃‍♀️️‍️ MTL-Batch No. 1
 
-- [armediabox](https://github.com/armediabox) - Providing Augmented Reality models to media professionals
 - [Glasskube](https://github.com/glasskube/operator) - Enabling automatic installation and updates for popular open source software
+- [openARbox](https://github.com/openarbox) - Providing Augmented Reality models to media professionals
 - [Open Podcast](https://github.com/openpodcast) - Free and open ecosystem for podcasts
 - [taggy](https://github.com/open-taggy) - Open Semantic Tagging
 
