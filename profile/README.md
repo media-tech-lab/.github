@@ -30,7 +30,7 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 ### 🏃‍♀️️‍️ MTL-Batch No. 2
 
-- [Speechcatcher](https://github.com/speechcatcher-asr) - Automatically translate, transcribe and subtitle any media file (german language)
+- [Speechcatcher](https://github.com/speechcatcher-asr) - Automatically translate, transcribe and subtitle any media file (German language)
 - [Open Recommendation Butler (ORB)](https://github.com/open-recommendation-butler) - Search and Recommendation System for world-class digital experiences
 - [SnipAId](https://github.com/snipaid-nlg) - Generate teasers, summaries and social media posts from articles
 
