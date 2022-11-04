@@ -23,17 +23,23 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 ### 🏃‍♀️️‍️ MTL-Batch No. 1
 
 - [Glasskube](https://github.com/glasskube/operator) - Enabling automatic installation and updates for popular open source software
-- [openARbox](https://github.com/openarbox) - Providing Augmented Reality models to media professionals
 - [Open Podcast](https://github.com/openpodcast) - Free and open ecosystem for podcasts
 - [taggy](https://github.com/open-taggy) - Open Semantic Tagging
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-1.png" width="250" title="Progress bar of batch 1">
 
-### 👷🏽‍♀️ MTL-Batch No. 2
+### 🏃‍♀️️‍️ MTL-Batch No. 2
 
-- Registration closed. Onboarding in progress.
+- [Speechcatcher](https://github.com/speechcatcher-asr) - Automatically translate, transcribe and subtitle any media file (german language)
+- [Open Recommendation Butler (ORB)](https://github.com/open-recommendation-butler) - Search and Recommendation System for world-class digital experiences
+- [SnipAId](https://github.com/snipaid-nlg) - Generate teasers, summaries and social media posts from articles
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-2.png" width="250" title="Progress bar of batch 2">
+
+
+### 👷🏽‍♀️ MTL-Batch No. 3
+
+- work in progress
 
 ### 💡 Our powered by logo
 
