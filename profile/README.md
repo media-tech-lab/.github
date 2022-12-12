@@ -39,7 +39,9 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 ### 👷🏽‍♀️ MTL-Batch No. 3
 
-- work in progress
+- Registration open until 16/01/2023. [Apply now](https://www.media-lab.de/en/programs/media-tech-lab/application)
+
+<img src="https://media-tech-lab.github.io/images/progress-batch-3.png" width="250" title="Progress bar of batch 3">
 
 ### 💡 Our powered by logo
 
