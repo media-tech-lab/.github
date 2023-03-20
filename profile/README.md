@@ -14,13 +14,13 @@ You are an open source developer or software freelancer? You are passionate abou
 Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-tech-lab.com/).
 
 
-### 🏃‍♀️️‍️ MTL-Batch Beta
+### 🏁 MTL-Batch Beta
 
 - [Content Lense](https://github.com/content-lense) - Enabling publishers to analyse their content
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-beta.png" width="250" title="Progress bar of batch beta">
 
-### 🏃‍♀️️‍️ MTL-Batch No. 1
+### 🏁 MTL-Batch No. 1
 
 - [Glasskube](https://github.com/glasskube/operator) - Enabling automatic installation and updates for popular open source software
 - [Open Podcast](https://github.com/openpodcast) - Free and open ecosystem for podcasts
@@ -36,12 +36,15 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-2.png" width="250" title="Progress bar of batch 2">
 
+### 🏃‍♀️️‍️ MTL-Batch No. 3
 
-### 👷🏽‍♀️ MTL-Batch No. 3
-
-- Registration open until 16/01/2023. [Apply now](https://www.media-lab.de/en/programs/media-tech-lab/application)
+- Starting now. Work in progress. 
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-3.png" width="250" title="Progress bar of batch 3">
+
+### MTL-Batch No. 4
+
+- Batch Starts in May 2023. [Apply now](https://www.media-lab.de/en/programs/media-tech-lab/application)
 
 ### 💡 Our powered by logo
 
