@@ -41,7 +41,6 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 - [Gencaster](https://github.com/gencaster-mlb) - A non-linear audio streaming framework for real-time radiophonic experiences and live music.
 - [investigraph](https://github.com/investigativedata/investigraph) - Toolbox for follow the money investigations
 - [kache](https://github.com/kacheio) - Open source cloud-native web accelerator
-- [music co-creator](https://github.com/abarch/comp_muse) - Customize and optimize the music output
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-3.png" width="250" title="Progress bar of batch 3">
 
