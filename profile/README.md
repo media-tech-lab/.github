@@ -46,7 +46,7 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 ### MTL-Batch No. 4
 
-- Batch Starts in May 2023. [Apply now](https://www.media-lab.de/en/programs/media-tech-lab/application)
+- Soon. [Apply now](https://www.media-lab.de/en/programs/media-tech-lab/application)
 
 ### 💡 Our powered by logo
 
