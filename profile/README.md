@@ -46,7 +46,9 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 ### MTL-Batch No. 4
 
-- Soon. [Apply now](https://www.media-lab.de/en/programs/media-tech-lab/application)
+- [Apply now](https://www.media-lab.de/en/programs/media-tech-lab/application)
+
+<img src="https://media-tech-lab.github.io/images/progress-batch-4.png" width="250" title="Progress bar of batch 4">
 
 ### 💡 Our powered by logo
 
