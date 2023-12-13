@@ -28,7 +28,7 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-1.png" width="250" title="Progress bar of batch 1">
 
-### 🏃‍♀️️‍️ MTL-Batch No. 2
+### 🏁️‍️ MTL-Batch No. 2
 
 - [Speechcatcher](https://github.com/speechcatcher-asr) - Automatically translate, transcribe and subtitle any media file (German language)
 - [Open Recommendation Butler (ORB)](https://github.com/open-recommendation-butler) - Search and Recommendation System for world-class digital experiences
@@ -36,7 +36,7 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-2.png" width="250" title="Progress bar of batch 2">
 
-### 🏃‍♀️️‍️ MTL-Batch No. 3
+### 🏁 MTL-Batch No. 3
 
 - [Gencaster](https://github.com/gencaster-mlb) - A non-linear audio streaming framework for real-time radiophonic experiences and live music.
 - [investigraph](https://github.com/investigativedata/investigraph) - Toolbox for follow the money investigations
@@ -44,9 +44,11 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-3.png" width="250" title="Progress bar of batch 3">
 
-### MTL-Batch No. 4
+### 🏃‍♀️️‍️ MTL-Batch No. 4
 
-- [Apply now](https://www.media-lab.de/en/programs/media-tech-lab/application)
+- [ANTicle]([https://github.com/kacheio](https://github.com/ANTicle/main)) - AI-based tool for the generation of news articles based on reports an social media posts
+- [ContentRicher](https://github.com/ContentRicher/contentricher) - Enrichting editorial content to address different knowledge levels
+- [Doppelcheck](https://github.com/Doppelcheck/main) - Customized Press Reviews at the Touch of a Button
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-4.png" width="250" title="Progress bar of batch 4">
 
