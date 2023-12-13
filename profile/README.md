@@ -46,7 +46,7 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 ### 🏃‍♀️️‍️ MTL-Batch No. 4
 
-- [ANTicle]([https://github.com/kacheio](https://github.com/ANTicle/main)) - AI-based tool for the generation of news articles based on reports an social media posts
+- [ANTicle](https://github.com/ANTicle/main) - AI-based tool for the generation of news articles based on reports an social media posts
 - [ContentRicher](https://github.com/ContentRicher/contentricher) - Enrichting editorial content to address different knowledge levels
 - [Doppelcheck](https://github.com/Doppelcheck/main) - Customized Press Reviews at the Touch of a Button
 
