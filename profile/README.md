@@ -54,11 +54,11 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 ### ️‍️🏃‍♀️ MTL-Batch No. 5
 
-- Flowforge 	
-- FTR KI-Tools
-- Insightfinder	
-- GraphDraw
-
+- [PromptMage](https://github.com/tsterbak/promptmage) - Simplifies the process of creating and managing LLM workflows
+- [PulseSpotter](https://github.com/levrone1987/PulseSpotter) - Assist journalists in the task of identifying newsworthy topics	
+- [redaktool.ai](https://github.com/kyr0/redaktool) - Browser Extension for the journalistic work of the future
+- [tinqta](https://github.com/bleeptrack/tinqta) - Co-creative AI-based illustrations
+ 
 <img src="https://media-tech-lab.github.io/images/progress-batch-5.png" width="250" title="Progress bar of batch 5">
 
 ### 💡 Our powered by logo
