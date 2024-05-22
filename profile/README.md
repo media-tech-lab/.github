@@ -13,13 +13,6 @@ You are an open source developer or software freelancer? You are passionate abou
 
 Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-tech-lab.com/).
 
-
-### 🏁 MTL-Batch Beta
-
-- [Content Lense](https://github.com/content-lense) - Enabling publishers to analyse their content
-
-<img src="https://media-tech-lab.github.io/images/progress-batch-beta.png" width="250" title="Progress bar of batch beta">
-
 ### ️‍️🏃‍♀️ MTL-Batch No. 5
 
 - [PromptMage](https://github.com/tsterbak/promptmage) - Simplifies the process of creating and managing LLM workflows
@@ -60,6 +53,12 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 - [taggy](https://github.com/open-taggy) - Open Semantic Tagging
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-1.png" width="250" title="Progress bar of batch 1">
+
+### 🏁 MTL-Batch Beta
+
+- [Content Lense](https://github.com/content-lense) - Enabling publishers to analyse their content
+
+<img src="https://media-tech-lab.github.io/images/progress-batch-beta.png" width="250" title="Progress bar of batch beta">
 
 ### 💡 Our powered by logo
 
