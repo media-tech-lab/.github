@@ -20,29 +20,14 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-beta.png" width="250" title="Progress bar of batch beta">
 
-### 🏁 MTL-Batch No. 1
+### ️‍️🏃‍♀️ MTL-Batch No. 5
 
-- [Glasskube](https://github.com/glasskube/operator) - Enabling automatic installation and updates for popular open source software
-- [Open Podcast](https://github.com/openpodcast) - Free and open ecosystem for podcasts
-- [taggy](https://github.com/open-taggy) - Open Semantic Tagging
-
-<img src="https://media-tech-lab.github.io/images/progress-batch-1.png" width="250" title="Progress bar of batch 1">
-
-### 🏁️‍️ MTL-Batch No. 2
-
-- [Speechcatcher](https://github.com/speechcatcher-asr) - Automatically translate, transcribe and subtitle any media file (German language)
-- [Open Recommendation Butler (ORB)](https://github.com/open-recommendation-butler) - Search and Recommendation System for world-class digital experiences
-- [SnipAId](https://github.com/snipaid-nlg) - Generate teasers, summaries and social media posts from articles
-
-<img src="https://media-tech-lab.github.io/images/progress-batch-2.png" width="250" title="Progress bar of batch 2">
-
-### 🏁 MTL-Batch No. 3
-
-- [Gencaster](https://github.com/gencaster-mlb) - A non-linear audio streaming framework for real-time radiophonic experiences and live music.
-- [investigraph](https://github.com/investigativedata/investigraph) - Toolbox for follow the money investigations
-- [kache](https://github.com/kacheio) - Open source cloud-native web accelerator
-
-<img src="https://media-tech-lab.github.io/images/progress-batch-3.png" width="250" title="Progress bar of batch 3">
+- [PromptMage](https://github.com/tsterbak/promptmage) - Simplifies the process of creating and managing LLM workflows
+- [PulseSpotter](https://github.com/levrone1987/PulseSpotter) - Assist journalists in the task of identifying newsworthy topics	
+- [redaktool.ai](https://github.com/kyr0/redaktool) - Browser Extension for the journalistic work of the future
+- [tinqta](https://github.com/bleeptrack/tinqta) - Co-creative AI-based illustrations
+ 
+<img src="https://media-tech-lab.github.io/images/progress-batch-5.png" width="250" title="Progress bar of batch 5">
 
 ### 🏃‍♀️️‍️ MTL-Batch No. 4
 
@@ -52,14 +37,29 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-4.png" width="250" title="Progress bar of batch 4">
 
-### ️‍️🏃‍♀️ MTL-Batch No. 5
+### 🏁 MTL-Batch No. 3
 
-- [PromptMage](https://github.com/tsterbak/promptmage) - Simplifies the process of creating and managing LLM workflows
-- [PulseSpotter](https://github.com/levrone1987/PulseSpotter) - Assist journalists in the task of identifying newsworthy topics	
-- [redaktool.ai](https://github.com/kyr0/redaktool) - Browser Extension for the journalistic work of the future
-- [tinqta](https://github.com/bleeptrack/tinqta) - Co-creative AI-based illustrations
- 
-<img src="https://media-tech-lab.github.io/images/progress-batch-5.png" width="250" title="Progress bar of batch 5">
+- [Gencaster](https://github.com/gencaster-mlb) - A non-linear audio streaming framework for real-time radiophonic experiences and live music.
+- [investigraph](https://github.com/investigativedata/investigraph) - Toolbox for follow the money investigations
+- [kache](https://github.com/kacheio) - Open source cloud-native web accelerator
+
+<img src="https://media-tech-lab.github.io/images/progress-batch-3.png" width="250" title="Progress bar of batch 3">
+
+### 🏁️‍️ MTL-Batch No. 2
+
+- [Speechcatcher](https://github.com/speechcatcher-asr) - Automatically translate, transcribe and subtitle any media file (German language)
+- [Open Recommendation Butler (ORB)](https://github.com/open-recommendation-butler) - Search and Recommendation System for world-class digital experiences
+- [SnipAId](https://github.com/snipaid-nlg) - Generate teasers, summaries and social media posts from articles
+
+<img src="https://media-tech-lab.github.io/images/progress-batch-2.png" width="250" title="Progress bar of batch 2">
+
+### 🏁 MTL-Batch No. 1
+
+- [Glasskube](https://github.com/glasskube/operator) - Enabling automatic installation and updates for popular open source software
+- [Open Podcast](https://github.com/openpodcast) - Free and open ecosystem for podcasts
+- [taggy](https://github.com/open-taggy) - Open Semantic Tagging
+
+<img src="https://media-tech-lab.github.io/images/progress-batch-1.png" width="250" title="Progress bar of batch 1">
 
 ### 💡 Our powered by logo
 
