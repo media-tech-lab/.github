@@ -1,8 +1,6 @@
 ## Hey, we are the Media Tech Lab 👋
 
-![Media Tech Lab Header image](/assets/mtl-bg.jpg)
-
-You are an open source developer or software freelancer? You are passionate about an innovative IT topic that could help the media industry? You have identified a tech problem for which there is no solution yet? If so, the Media Tech Lab is just right for you! Every research and development project that gets lost in the daily editorial routine, for which there is no money, or which simply no longer fits into the annual plan of a media company, is all the more exciting for us.
+You are an open source developer or software freelancer? You are passionate about an innovative IT topic that could help the media industry? You have identified a tech problem for which there is no solution yet? If so, the Media Tech Lab (MTL) is just right for you! Every research and development project that gets lost in the daily editorial routine, for which there is no money, or which simply no longer fits into the annual plan of a media company, is all the more exciting for us.
 
 ### We fund Open Source Projects that help the German-speaking media industry.
 - 🎸 For passionated open source developers (located in Europe)
@@ -11,7 +9,13 @@ You are an open source developer or software freelancer? You are passionate abou
 - 👩‍👩‍👧‍👧 Fulltime or part time possible (minimum 20 hours/week)
 - 🚑 Weeklys and professional support by other program members and the MTL-crew
 
-Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-tech-lab.com/).
+Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://www.media-lab.de/de/angebote/media-tech-lab/).
+
+## About Media Lab Bayern
+
+The Media Tech Lab is a program of **Media Lab Bayern**. We help you to find new ideas, form teams and build the new. Media Lab Bayern supports you and your ideas with funding programs for media makers, an extensive network in the industry and in-depth coachings. Together we make the media Future Proof!
+
+Media Lab Bayern is an initiative of Medien.Bayern GmbH and is funded by the Bayerische Landeszentrale für neue Medien (BLM) and the Bayerische Staatskanzlei.
 
 ### ️‍️🏃‍♀️ MTL-Batch No. 5
 
@@ -60,7 +64,7 @@ Too good to be true? ☝️ Learn more about the [Media Tech Lab](https://media-
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-beta.png" width="250" title="Progress bar of batch beta">
 
-### 💡 Our powered by logo
+---
 
 Every time you see this logo in a github repository or on a website it means we are supporting that project 💪
 
