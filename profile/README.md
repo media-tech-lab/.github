@@ -20,7 +20,6 @@ Media Lab Bayern is an initiative of Medien.Bayern GmbH and is funded by the Bay
 ### ️‍️🏃‍♀️ MTL-Batch No. 5
 
 - [PromptMage](https://github.com/tsterbak/promptmage) - Simplifies the process of creating and managing LLM workflows
-- [PulseSpotter](https://github.com/levrone1987/PulseSpotter) - Assist journalists in the task of identifying newsworthy topics	
 - [redaktool.ai](https://github.com/kyr0/redaktool) - Browser Extension for the journalistic work of the future
 - [tinqta](https://github.com/bleeptrack/tinqta) - Co-creative AI-based illustrations
  
